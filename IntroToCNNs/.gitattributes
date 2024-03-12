@@ -1,1 +1,6 @@
 IntroToCNNs/cv-course-models/**/variables/variables.data-00001-of-00002 filter=lfs diff=lfs merge=lfs -text
+IntroToCNNs/cv-course-models/minivgg-trained/variables/variables.data-00001-of-00002 filter=lfs diff=lfs merge=lfs -text
+IntroToCNNs/cv-course-models/minivgg-bn-trained/variables/variables.data-00001-of-00002 filter=lfs diff=lfs merge=lfs -text
+IntroToCNNs/cv-course-models/inceptionv3/variables/variables.data-00001-of-00002 filter=lfs diff=lfs merge=lfs -text
+IntroToCNNs/cv-course-models/vgg16-pretrained-base/variables/variables.data-00001-of-00002 filter=lfs diff=lfs merge=lfs -text
+IntroToCNNs/cv-course-models/resnet50/variables/variables.data-00001-of-00002 filter=lfs diff=lfs merge=lfs -text
