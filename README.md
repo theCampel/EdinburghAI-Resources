@@ -10,5 +10,5 @@ If you want to get started with the workshops:
 - Appleton Tower, room 5.04
 
 ### When:
-- For semester 2, we're running on Wednesdays at 17:30.
+- For Sem1, we're running on (some) Mondays at 17:00. Take a look at our Instagram for more info!
 
